@@ -79,7 +79,7 @@ def main():
     df = generate_and_direct_match(nat, snt)
     df = label_synonym_match(nat, snt, df)
     df = synonym_synonym_match(nat, snt, df)
-    save_file(df, "nature_subjects_to_snt(test).xlsx")
+    save_file(df, "nature_subjects_to_snt.xlsx")
 
 if __name__ == "__main__":
     main()
