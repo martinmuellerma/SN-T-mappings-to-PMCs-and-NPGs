@@ -19,6 +19,13 @@ def load_datasets(nat_file, snt_file):
     return nat, snt
 
 def transform_datasets(nat, snt):
+    # windows-1252 encoding to utf-8
+    nat['Subject name'] = nat['Subject name'].apply(
+        lambda x: x.encode('WINDOWS_1252').decode('utf-8', 'replace')
+    )
+    nat['Alternative label(s)'] = nat['Alternative label(s)'].apply(
+        lambda x: x.encode('WINDOWS_1252').decode('utf-8', 'replace') if str(x) != 'nan' else x
+    )
     # nature subjects
     nat = nat.drop_duplicates()
     nat.columns = ['nature_code', 'nature_subject_name', 'nature_synonyms']
