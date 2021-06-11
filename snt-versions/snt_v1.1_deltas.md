@@ -1,4 +1,4 @@
-<p style="font-family: Consolas,monaco,monospace;">Physical Sciences[2867]<br>
+<p style="font-family: Consolas,monaco,monospace; line-height: 1.2;">Physical Sciences[2867]<br>
 ├── Chemistry[2867/2869]<br>
 │&nbsp;&nbsp;&nbsp;├── Analytical Chemistry[2867/2869/2952]<br>
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── Bioanalytical Chemistry[2867/2869/2952/6237]<br>
@@ -439,7 +439,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Mathematical Methods in Physics[2867/2928/2998/5270]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Mathematical Physics[2867/2928/2998/3177]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Special Relativity[2867/2928/2998/4924]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Statistical Physics[2867/2928/2998/3788]<br></p><p style="font-family: Consolas,monaco,monospace;">Life Sciences[2874]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Statistical Physics[2867/2928/2998/3788]<br></p><p style="font-family: Consolas,monaco,monospace; line-height: 1.2;">Life Sciences[2874]<br>
 ├── Biological Sciences[2874/2873]<br>
 │&nbsp;&nbsp;&nbsp;├── Agriculture[2874/2873/2872]<br>
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── Agricultural Biotechnology[2874/2873/2872/3890]<br>
@@ -884,7 +884,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Surgical Orthopedics[2874/2879/3070/3926]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Transplantation[2874/2879/3070/3429]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Urological Surgery[2874/2879/3070/3755]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Vascular Surgery[2874/2879/3070/6379]<br></p><p style="font-family: Consolas,monaco,monospace;">Humanities and Social Sciences[2883]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Vascular Surgery[2874/2879/3070/6379]<br></p><p style="font-family: Consolas,monaco,monospace; line-height: 1.2;">Humanities and Social Sciences[2883]<br>
 ├── Archaeology[2883/3140]<br>
 │&nbsp;&nbsp;&nbsp;├── Archaeological Methodology[2883/3140/3605]<br>
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── Archaeological Methods and Modelling[2883/3140/3605/6752]<br>
@@ -1976,7 +1976,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Sports Communication[2883/2891/8156/7980]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Sports Economics[2883/2891/8156/5386]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Sports Medicine[2883/2891/8156/4272]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Sports Nutrition[2883/2891/8156/7988]<br></p><p style="font-family: Consolas,monaco,monospace;">Technology and Engineering[2887]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Sports Nutrition[2883/2891/8156/7988]<br></p><p style="font-family: Consolas,monaco,monospace; line-height: 1.2;">Technology and Engineering[2887]<br>
 ├── Biological and Physical Engineering[2887/3297]<br>
 │&nbsp;&nbsp;&nbsp;├── Biomedical Engineering and Bioengineering[2887/3297/3344]<br>
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── Bioinspired Technologies[2887/3297/3344/8291]<br>
@@ -2095,7 +2095,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Automotive Engineering[2887/3102/8166/4191]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Engine Technology[2887/3102/8166/4184]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ├── Marine Engineering[2887/3102/8166/4870]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Rail Vehicles[2887/3102/8166/7476]<br></p><p style="font-family: Consolas,monaco,monospace;">Mathematics and Computing[2925]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  └── Rail Vehicles[2887/3102/8166/7476]<br></p><p style="font-family: Consolas,monaco,monospace; line-height: 1.2;">Mathematics and Computing[2925]<br>
 ├── Computer Science[2925/2971]<br>
 │&nbsp;&nbsp;&nbsp;├── Artificial Intelligence[2925/2971/2970]<br>
 │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── Computational Linguistics[2925/2971/2970/5281]<br>
